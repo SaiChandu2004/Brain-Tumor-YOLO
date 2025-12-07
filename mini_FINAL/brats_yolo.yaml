@@ -1,0 +1,5 @@
+names:
+- tumor
+nc: 1
+train: C:\D_DRIVE\preprocessed2\train\images
+val: C:\D_DRIVE\preprocessed2\val\images
